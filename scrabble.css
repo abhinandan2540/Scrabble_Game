@@ -1,0 +1,99 @@
+#p1 {
+    border: 2px solid red;
+    width: 50px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+#p2 {
+    border: 2px solid red;
+    width: 140px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+#p3 {
+    border: 2px solid red;
+    width: 100px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+#p4 {
+    border: 2px solid red;
+    width: 80px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+#p5 {
+    border: 2px solid red;
+    width: 110px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+#p6 {
+    border: 2px solid red;
+    width: 170px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+#p7 {
+    border: 2px solid red;
+    width: 90px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+#p8 {
+    border: 2px solid red;
+    width: 90px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+#p9 {
+    border: 2px solid red;
+    width: 80px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+#p10 {
+    border: 2px solid red;
+    width: 120px;
+    padding: 20px;
+    background-color: beige;
+    font-size: 19px;
+
+}
+
+.options {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 200px;
+}
+
+#head {
+    justify-self: center;
+}
