@@ -1,1 +1,3 @@
 # Scrabble_Game
+
+This is the simple implementation is HTML,CSS,JS for making a simple game for kids...
